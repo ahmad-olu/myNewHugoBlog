@@ -2,37 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2023-08-09T11:52:27+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2023-08-09T11:52:27+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/third/</loc>
+    <lastmod>2023-08-09T11:52:27+01:00</lastmod>
+  </url><url>
+    <loc>http://example.org/about/</loc>
     <lastmod>2023-08-09T11:30:06+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2023-08-09T11:30:06+01:00</lastmod>
-  </url><url>
-    <loc>/tags/beans/</loc>
+    <loc>http://example.org/tags/beans/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>http://example.org/categories/recipe/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/categories/recipe/</loc>
+    <loc>http://example.org/posts/second/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/posts/second/</loc>
+    <loc>http://example.org/tags/stew/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/tags/stew/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2023-08-09T11:24:19+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2023-08-09T11:24:19+01:00</lastmod>
-  </url><url>
-    <loc>/posts/first/</loc>
+    <loc>http://example.org/posts/first/</loc>
     <lastmod>2023-08-09T11:23:19+01:00</lastmod>
   </url><url>
-    <loc>/tags/rice/</loc>
+    <loc>http://example.org/tags/rice/</loc>
     <lastmod>2023-08-09T11:23:19+01:00</lastmod>
   </url>
 </urlset>
